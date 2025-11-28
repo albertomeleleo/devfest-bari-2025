@@ -8,5 +8,7 @@ voglio una chat in cui mi dai dei suggerimenti sull'argomento trattato. voglio u
 # documentazione
 
 
-~~~crea una sezione documentazione che legga dei diagrammi mermaid e dei file markdown dalla cartella documentation.analizza il codice e crea la documentazione basandoti sul markdown allegato~~~)
+~~~
+crea una sezione documentazione che legga dei diagrammi mermaid e dei file markdown dalla cartella documentation.analizza il codice e crea la documentazione basandoti sul markdown allegato
+~~~
 
